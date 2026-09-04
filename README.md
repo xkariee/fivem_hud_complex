@@ -1,6 +1,4 @@
-# EXILEXX (ON) HUD
-
-exilexx (on) hud from day 05.11.2022 (FULLY CHANGED DESIGN AND FUNCTIONALITY BY ME for exile managment)
+# FIVEM HUD COMPLEX
 
 PREV:
 
